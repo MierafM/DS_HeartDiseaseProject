@@ -2,10 +2,10 @@
 ## Dataset
 ### heart-2020-cleaned-numerical
 feature engineered version of initial dataset - used for tuning our models
-### Classifier Exploration
-## Initial ML Model Exploration file
+## Classifier Exploration
+### Initial ML Model Exploration file
 includes all 8 initial ML Models and tuned Logistic Regression and Decision Tree models
-## classifier exploration (random tree & extra tree)
+### classifier exploration (random tree & extra tree)
 includes several attempts of parameter tuning for Random Tree Classifier and Extra Tree Classifier
 
 ## Clustering
