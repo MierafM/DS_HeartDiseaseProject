@@ -16,4 +16,4 @@ KMeans clustering with no scaling, standard scaling, and minmax scaling
 
 ## Ensemble
 ### trying ensemble models
-attempts at further improving ur logistic regression model through 4 ensemble methods
+attempts at further improving our logistic regression model through 4 ensemble methods
